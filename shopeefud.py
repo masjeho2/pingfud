@@ -21,14 +21,14 @@ domains = [
     "test-stable.shopeefood.co.id",
     # Menambahkan domain shopee.co.id dan beberapa subdomain
     "shopee.co.id",
-    "www.shopee.co.id",
-    "login.shopee.co.id",
-    "seller.shopee.co.id",
-    "help.shopee.co.id",
-    "blog.shopee.co.id",
-    "about.shopee.co.id",
-    "news.shopee.co.id",
-    "support.shopee.co.id"
+    "partner.api.shopee.co.id",
+    "mall.shopee.id",
+    "c-api-bit.shopeemobile.com",
+    "patronus.idata.shopeemobile.com",
+    "food-driver.business.accounts.shopee.co.id",
+    "deo.shopeemobile.com",
+    "content-autofill.googleapis.com",
+    "patronus.idata.shopeemobile.com"
 ]
 
 # Interval waktu antara setiap ping dalam detik
